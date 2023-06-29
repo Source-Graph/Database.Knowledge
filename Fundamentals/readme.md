@@ -1,0 +1,1 @@
+- [7 Database Paradigms](https://youtu.be/_E43l5EbNI4)
