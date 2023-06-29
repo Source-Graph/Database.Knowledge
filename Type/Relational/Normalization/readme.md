@@ -1,0 +1,1 @@
+- [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://youtu.be/GFQaEYEc8_8)
