@@ -1,1 +1,1 @@
-- [7 Database Paradigms](https://youtu.be/_E43l5EbNI4)
+- [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
