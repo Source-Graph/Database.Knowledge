@@ -1,0 +1,1 @@
+- [What is Database Sharding?](https://youtu.be/hdxdhCpgYo8)
